@@ -1,1 +1,1 @@
-printHello C
+print "Hello c"
